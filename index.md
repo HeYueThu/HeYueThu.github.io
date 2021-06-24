@@ -6,7 +6,7 @@
       <h1>Yue He</h1>
       <p><b>PHD. Candidate at Third Year</b></p>
       <p><b>Lab of Media and Network</b></p>
-      <p><b>Department of Computer Science and Technology, Tsinghua University</b></p>
+      <p><b>Department of Computer Science and Technology, THU</b></p>
       <p><b>Address: Room 9-316, East Main Building, Tsinghua University, Beijing 100084, P.R.China</b></p> 
       <p><b>Contact to me: heyue18@mails.tsinghua.edu.cn</b></p>
     </td>
