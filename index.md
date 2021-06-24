@@ -7,7 +7,7 @@
       <p><b>PHD. Candidate at Third Year</b></p>
       <p><b>Lab of Media and Network</b></p>
       <p><b>Department of Computer Science and Technology, Tsinghua University</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
+      <p><b>Contact to me: heyue18@mails.tsinghua.edu.cn</b></p>
       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
     </td>
     <td width="25%">
