@@ -30,32 +30,13 @@ We released a dataset, named NICO (http://nico.thumedialab.com), for non-i.i.d. 
 
 ### Publication
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HeYueThu/HeYueThu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<table border="0">
+  <tr>
+      <p><b>Yue He, Peng Cui, Jianxin Ma, Zou Hao, Xiaowei Wang, Hongxia Yang and Philip S. Yu. Learning Stable Graphs from Multiple Environments with Selection Bias. KDD, 2020. ()</b></p>
+      <p><b>Lab of Media and Network</b></p>
+      <p><b>Department of Computer Science and Technology, THU</b></p>
+      <p><b>Address: Room 9-316, East Main Building, Tsinghua University, Beijing 100084, P.R.China</b></p> 
+      <p><b>Contact to me: heyue18@mails.tsinghua.edu.cn</b></p>
+  </tr>
+</table>
