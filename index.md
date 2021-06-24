@@ -7,11 +7,11 @@
       <p><b>PHD. Candidate at Third Year</b></p>
       <p><b>Lab of Media and Network</b></p>
       <p><b>Department of Computer Science and Technology, Tsinghua University</b></p>
+      <p><b>Address: Room 9-316, East Main Building, Tsinghua University, Beijing 100084, P.R.China</b></p> 
       <p><b>Contact to me: heyue18@mails.tsinghua.edu.cn</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
     </td>
     <td width="25%">
-      <img src="/991624498391_.pic.jpg" width="100%">      % 插入证件照代码
+      <img src="/991624498391_.pic.jpg" width="100%">      
     </td>
   </tr>
 </table>
