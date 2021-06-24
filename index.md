@@ -21,7 +21,11 @@
 ### Biography
 Hi! I’m now a third year PhD student in Department of Computer Science and Technology in Tsinghua University, directed by Prof. Peng Cui. Before that, I got my B.E. degree from BUAA in 2018 with 3 times of National Scholarship for 4 successive years.
 
-I have board interests in Data Mining and Machine Learning. I am particularly interested in Causal Discovery, Stable Learning, Network Computing and Recommender System.
+I have board interests in Data Mining and Machine Learning. I am particularly interested in Causal Discovery, Stable Learning, Out-of-Distribution Problem, Network Computing and Recommender System.
+
+### News
+
+We released a dataset, named NICO (http://nico.thumedialab.com), for non-i.i.d. image classification.
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
