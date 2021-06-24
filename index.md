@@ -19,7 +19,9 @@
 
 
 ### Biography
-Hi! I am a PHD. Candidate from Tsinghua University directed by Pro. Peng Cui. 
+Hi! I’m now a third year PhD student in Department of Computer Science and Technology in Tsinghua University, directed by Prof. Peng Cui. Before that, I got my B.E. degree from BUAA in 2018.
+
+I have board interests in Data Mining and Machine Learning. I am particularly interested in Causal Discovery, Stable Learning and Network Computing.
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
