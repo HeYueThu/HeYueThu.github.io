@@ -33,7 +33,7 @@ We released a dataset, named NICO (http://nico.thumedialab.com), for non-i.i.d. 
 
 <table border="0">
   <tr>
-      <p><b>Yue He, Peng Cui, Jianxin Ma, Zou Hao, Xiaowei Wang, Hongxia Yang and Philip S. Yu. Learning Stable Graphs from Multiple Environments with Selection Bias. KDD, 2020. (paper <href>http://pengcui.thumedialab.com/papers/Stable_DVD.pdf</href>)</b></p>
+      <p><b>Yue He, Peng Cui, Jianxin Ma, Zou Hao, Xiaowei Wang, Hongxia Yang and Philip S. Yu. Learning Stable Graphs from Multiple Environments with Selection Bias. KDD, 2020. (<a href="http://pengcui.thumedialab.com/papers/Stable_DVD.pdf">paper<a>)</b></p>
       <p><b>Lab of Media and Network</b></p>
       <p><b>Department of Computer Science and Technology, THU</b></p>
       <p><b>Address: Room 9-316, East Main Building, Tsinghua University, Beijing 100084, P.R.China</b></p> 
