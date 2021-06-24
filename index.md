@@ -40,12 +40,12 @@
 
 <table border="0">
   <tr>
-      <p><b>Yue He, Peng Cui, Zheyan Shen, Renzhe Xu, Furui Liu, Yong Jiang. DARING: Differentiable Causal Discovery with Residual Independence. KDD, 2021. (<a href="http://pengcui.thumedialab.com/papers/DARING.pdf">paper<a>)</b></p>
-      <p><b>Yue He, Yancheng Dong, Peng Cui, Yuhang Jiao, Xiaowei Wang, Ji Liu, Philip Yu. Purify and Generate: Learning Faithful Item-to-Item Graph from Noisy User-Item Interaction Behaviors. KDD, 2021. (<a href="http://pengcui.thumedialab.com/papers/StableGraph.pdf">paper<a>)</b></p>
-      <p><b>Xingxuan Zhang, Peng Cui, Renzhe Xu, Linjun Zhou, Yue He, Zheyan Shen. Deep Stable Learning for Out-Of-Distribution Generalization. CVPR, 2021. (<a href="http://pengcui.thumedialab.com/papers/DeepStableLearning.pdf">paper<a>)</b></p>
-      <p><b>Yue He, Peng Cui, Jianxin Ma, Zou Hao, Xiaowei Wang, Hongxia Yang and Philip S. Yu. Learning Stable Graphs from Multiple Environments with Selection Bias. KDD, 2020. (<a href="http://pengcui.thumedialab.com/papers/StableGraph.pdf">paper<a>)</b></p>
-      <p><b>Yue He, Zheyan Shen, Peng Cui. Towards Non-I.I.D. Image Classification: A Dataset and Baselines. Pattern Recognition, 2020. (<a href="http://pengcui.thumedialab.com/papers/NICO.pdf">paper<a>)</b></p>
-      <p><b>Hao Zou, Peng Cui, Bo Li, Zheyan Shen, Jianxin Ma, Hongxia Yang, Yue He. Counterfactual Prediction for Bundle Treatments. NeurIPS, 2020.  (<a href="http://pengcui.thumedialab.com/papers/StableGraph.pdf">paper<a>)</b></p>
-      <p><b>Yuqing Ma, Yue He, Fan Ding, Sheng Hu, Jun Li, Xianglong Liu. Progressive Generative Hashing for Image Retrieval. IJCAI, 2018. (<a href="https://www.ijcai.org/Proceedings/2018/0121.pdf">paper<a>)</b></p>
+      <p><b>Yue He, Peng Cui, Zheyan Shen, Renzhe Xu, Furui Liu, Yong Jiang. DARING: Differentiable Causal Discovery with Residual Independence. KDD, 2021. (<a href="http://pengcui.thumedialab.com/papers/DARING.pdf">paper</a>)</b></p>
+      <p><b>Yue He, Yancheng Dong, Peng Cui, Yuhang Jiao, Xiaowei Wang, Ji Liu, Philip Yu. Purify and Generate: Learning Faithful Item-to-Item Graph from Noisy User-Item Interaction Behaviors. KDD, 2021. (<a href="http://pengcui.thumedialab.com/papers/StableGraph.pdf">paper</a>)</b></p>
+      <p><b>Xingxuan Zhang, Peng Cui, Renzhe Xu, Linjun Zhou, Yue He, Zheyan Shen. Deep Stable Learning for Out-Of-Distribution Generalization. CVPR, 2021. (<a href="http://pengcui.thumedialab.com/papers/DeepStableLearning.pdf">paper</a>)</b></p>
+      <p><b>Yue He, Peng Cui, Jianxin Ma, Zou Hao, Xiaowei Wang, Hongxia Yang and Philip S. Yu. Learning Stable Graphs from Multiple Environments with Selection Bias. KDD, 2020. (<a href="http://pengcui.thumedialab.com/papers/StableGraph.pdf">paper</a>)</b></p>
+      <p><b>Yue He, Zheyan Shen, Peng Cui. Towards Non-I.I.D. Image Classification: A Dataset and Baselines. Pattern Recognition, 2020. (<a href="http://pengcui.thumedialab.com/papers/NICO.pdf">paper</a>)</b></p>
+      <p><b>Hao Zou, Peng Cui, Bo Li, Zheyan Shen, Jianxin Ma, Hongxia Yang, Yue He. Counterfactual Prediction for Bundle Treatments. NeurIPS, 2020.  (<a href="http://pengcui.thumedialab.com/papers/StableGraph.pdf">paper</a>)</b></p>
+      <p><b>Yuqing Ma, Yue He, Fan Ding, Sheng Hu, Jun Li, Xianglong Liu. Progressive Generative Hashing for Image Retrieval. IJCAI, 2018. (<a href="https://www.ijcai.org/Proceedings/2018/0121.pdf">paper</a>)</b></p>
   </tr>
 </table>
