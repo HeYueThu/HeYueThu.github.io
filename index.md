@@ -5,7 +5,7 @@
     <td width="75%">
       <h1>Yue He</h1>
       <p><b>PHD. Candidate at Third Year</b></p>
-      <p><b></b></p>
+      <p><b>Lab of Media and Network, Department of Computer Science and Technology, Tsinghua University</b></p>
       <p><b>邮箱：1234567789@qq.com</b></p>
       <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
     </td>
