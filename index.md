@@ -19,7 +19,7 @@
 
 
 ### Biography
-Hi! I’m now a third year PhD student in Department of Computer Science and Technology in Tsinghua University, directed by Prof. Peng Cui. Before that, I got my B.E. degree from BUAA in 2018.
+Hi! I’m now a third year PhD student in Department of Computer Science and Technology in Tsinghua University, directed by Prof. Peng Cui. Before that, I got my B.E. degree from BUAA in 2018 with 3 times of National Scholarship for 4 successive years.
 
 I have board interests in Data Mining and Machine Learning. I am particularly interested in Causal Discovery, Stable Learning and Network Computing.
 
