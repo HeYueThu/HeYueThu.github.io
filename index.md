@@ -4,7 +4,7 @@
   <tr>
     <td width="75%">
       <h1>Yue He</h1>
-      <p><b>PHD. Candidate at Third Year</b></p>
+      <p><b>PHD. Candidate at Forth Year</b></p>
       <p><b>Lab of Media and Network</b></p>
       <p><b>Department of Computer Science and Technology, THU</b></p>
       <p><b>Address: Room 9-316, East Main Building, Tsinghua University, Beijing 100084, P.R.China</b></p> 
@@ -21,7 +21,7 @@
 ### Biography
 <table border="0">
   <tr>
-<p><b>Hi! I’m now a third year PhD student in Department of Computer Science and Technology in Tsinghua University, directed by Prof. Peng Cui. Before that, I got my B.E. degree from BUAA in 2018 with 3 times of National Scholarship for 4 successive years.</b></p>
+<p><b>Hi! I’m now a Forth year PhD student in Department of Computer Science and Technology in Tsinghua University, directed by Prof. Peng Cui. Before that, I got my B.E. degree from BUAA in 2018 with 3 times of National Scholarship for 4 successive years.</b></p>
 <p><b>I have board interests in Data Mining and Machine Learning. I am particularly interested in Causal Discovery, Stable Learning, Out-of-Distribution Generalizaion and  Network Computing.</b></p>
     </tr>
 </table>
