@@ -38,7 +38,7 @@
 
 <table border="0">
   <tr>
-      <p><b>Yue He, Zimu Wang, Peng Cui, Hao Zou, Yafeng Zhang, Qiang Cui, Yong Jiang. CAUSPref: Causal Preference Learning for Out-of-Distribution Recommendation. The WebConf, 2022. (<a href="https://arxiv.org/pdf/2202.03984.pdf">paper</a>)</b></p>
+      <p><b>Yue He, Zimu Wang, Peng Cui, Hao Zou, Yafeng Zhang, Qiang Cui, Yong Jiang. CausPref: Causal Preference Learning for Out-of-Distribution Recommendation. The WebConf, 2022. (<a href="https://arxiv.org/pdf/2202.03984.pdf">paper</a>)</b></p>
       <p><b>Yue He, Peng Cui, Zheyan Shen, Renzhe Xu, Furui Liu, Yong Jiang. DARING: Differentiable Causal Discovery with Residual Independence. KDD, 2021. (<a href="http://pengcui.thumedialab.com/papers/DARING.pdf">paper</a>)</b></p>
       <p><b>Yue He, Yancheng Dong, Peng Cui, Yuhang Jiao, Xiaowei Wang, Ji Liu, Philip Yu. Purify and Generate: Learning Faithful Item-to-Item Graph from Noisy User-Item Interaction Behaviors. KDD, 2021. (<a href="https://github.com/HeYueThu/HeYueThu.github.io/blob/main/KDD2021_Purify-and-Generate-I2I-graph_camera-ready.pdf">paper</a>)</b></p>
       <p><b>Yue He, Peng Cui, Jianxin Ma, Zou Hao, Xiaowei Wang, Hongxia Yang and Philip S. Yu. Learning Stable Graphs from Multiple Environments with Selection Bias. KDD, 2020. (<a href="http://pengcui.thumedialab.com/papers/StableGraph.pdf">paper</a>)</b></p>
